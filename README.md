@@ -86,3 +86,9 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 ---
 
 Desenvolvido por Gabriel Oliveira
+
+![Imagem do WhatsApp de 2025-05-21 à(s) 11 33 07_3230bcd6](https://github.com/user-attachments/assets/4ab14c15-9615-42cb-ac82-213f62b607d7)
+
+![Imagem do WhatsApp de 2025-05-21 à(s) 11 33 23_13c31e00](https://github.com/user-attachments/assets/2baf95e2-e39b-4287-ad56-ca8ddba2c006)
+
+
