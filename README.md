@@ -3,7 +3,7 @@
 
 Bem-vindo ao **Cineverso**! Uma aplicação web moderna para explorar filmes, descobrir novidades e gerenciar sua lista de favoritos. Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em desenvolvimento Front-end, utilizando React para criar uma interface dinâmica e responsiva, e interagindo com uma API real para dados de filmes.
 
-![Cineverso Screenshot](https://github.com/gabrieloliv10/Cinveverso/blob/main/public/cineverso-screenshot.png) ## ✨ Destaques do Projeto
+✨ Destaques do Projeto
 
 * **Exploração de Filmes:** Navegue por uma vasta coleção de filmes populares, bem avaliados, em cartaz e futuros lançamentos.
 * **Filtragem Avançada:** Filtre filmes por categorias e gêneros para encontrar exatamente o que procura.
