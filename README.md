@@ -1,4 +1,4 @@
-# Cineverso
+
 # 🍿 Cineverso
 
 Bem-vindo ao **Cineverso**! Uma aplicação web moderna para explorar filmes, descobrir novidades e gerenciar sua lista de favoritos. Este projeto foi desenvolvido com o objetivo de demonstrar habilidades em desenvolvimento Front-end, utilizando React para criar uma interface dinâmica e responsiva, e interagindo com uma API real para dados de filmes.
